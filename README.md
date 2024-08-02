@@ -1,3 +1,4 @@
+![logo](https://github.com/Prasadarika8823/Prasadarika8823/blob/main/Minimalistic%20Creative%20Agency%20Business%20Banner.png)
 <h1 align="center">Hi 👋, I'm Araka Venkata Durga Varaprasad</h1>
 <h3 align="center">A passionate Data Analyst and Full stack developer!</h3>
 
